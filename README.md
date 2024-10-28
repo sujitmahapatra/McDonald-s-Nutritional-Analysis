@@ -6,16 +6,18 @@ This project analyzes the nutritional information of menu items from McDonald's.
 
 The goal of this project is to explore and analyze McDonald's menu data to uncover trends, correlations, and patterns within various nutritional metrics. Key analysis areas include macronutrient distribution, correlations between calorie content and fat, and insights into vitamins and minerals.
 
-## Visualizations
-
+# Visualizations
 <p align="center">
-  <img src="path/to/image1.png" width="45%" alt="Image 1"/>
-  <img src="path/to/image2.png" width="45%" alt="Image 2"/>
+  <a href="https://www.linkedin.com/posts/mr-sm25_project1-level1-dataanalytics-activity-7172885878363549696-MQ4w?utm_source=share&utm_medium=member_desktop"><strong>PROJECT ENGAGEMENT VIDEO</strong></a>
+</p>
+<p align="center">
+  <img src="https://github.com/sujitmahapatra/McDonald-s-Nutritional-Analysis/blob/a7e84897c340b2773e03f51d750888e1b41c153b/OUTPUT/output1" width="45%" alt="Image 1"/>
+  <img src="https://github.com/sujitmahapatra/McDonald-s-Nutritional-Analysis/blob/a7e84897c340b2773e03f51d750888e1b41c153b/OUTPUT/output2" width="45%" alt="Image 2"/>
 </p>
 
 <p align="center">
-  <img src="path/to/image3.png" width="45%" alt="Image 3"/>
-  <img src="path/to/image4.png" width="45%" alt="Image 4"/>
+  <img src="https://github.com/sujitmahapatra/McDonald-s-Nutritional-Analysis/blob/a7e84897c340b2773e03f51d750888e1b41c153b/OUTPUT/output3" width="45%" alt="Image 3"/>
+  <img src="https://github.com/sujitmahapatra/McDonald-s-Nutritional-Analysis/blob/a7e84897c340b2773e03f51d750888e1b41c153b/OUTPUT/output4" width="45%" alt="Image 4"/>
 </p>
 
 ## Key Insights and Findings
